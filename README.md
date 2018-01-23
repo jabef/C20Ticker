@@ -17,3 +17,8 @@ Crypto20 Widget for Windows as shown at https://i.imgur.com/rrJRlmYr.jpg
 Screenshot of ticker in step 3:
 
 ![C20 Screenshot](https://i.imgur.com/E5qdlcA.png)
+
+
+4. If you want 1hr movements to show, as well as C20 movements, as shown in screenshot below, then replace the contents of the .ini file in the skin with the contents of the C20Ticker3B_0.3.ini file.
+
+![C20 Modified Ticker Screenshot](https://i.imgur.com/I2Ygxqz.png)
